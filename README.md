@@ -8,10 +8,15 @@ A small C program with a Makefile and simple test runner.
 
 .
 ├── Makefile
+
+├── test/
+
 ├── run_test.sh
+
 ├── src/
+
 │ └── easy_peasy.c
-└── dist/ # created by make release
+
 
 yaml
 Copy code
